@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/mnt/data/school/01/z_connor_work/code/build/CMakeFiles/bootloader
+/mnt/data/school/01/z_connor_work/code/build/CMakeFiles/bootloader.rule
+/mnt/data/school/01/z_connor_work/code/build/CMakeFiles/bootloader-complete.rule
+/mnt/data/school/01/z_connor_work/code/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/mnt/data/school/01/z_connor_work/code/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/mnt/data/school/01/z_connor_work/code/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/mnt/data/school/01/z_connor_work/code/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/mnt/data/school/01/z_connor_work/code/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/mnt/data/school/01/z_connor_work/code/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/mnt/data/school/01/z_connor_work/code/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
